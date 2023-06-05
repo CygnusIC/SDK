@@ -68,3 +68,5 @@ Integrating the Cygnus SDK into your canister involves the following steps:
             await cygnusClass.CygnusCanitser.acceptWithdrwalCyclesFromOtherCanitsers();
         };
   ```
+
+## Please refer to the [Example](https://github.com/CygnusIC/SDK/tree/master/motoko/example "Example") folder for reference.Make sure to add your own Principal IDs to the `whitelistedPrincipalIds` array in the Cygnus.mo file.
