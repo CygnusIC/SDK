@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "client": {
+      "main": "Main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "version": 1
+}
