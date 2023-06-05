@@ -4,9 +4,9 @@ The Cygnus SDK is a comprehensive tool designed specifically for the Internet Co
 
 ## Cygnus SDK Files in Motoko
 
-1. [Cygnus.mo](https://github.com/CygnusIC/SDK/blob/main/motoko/Cygnus.mo "Cygnus.mo"): This file contains various types necessary for smooth integration. It also includes access control validation, ensuring that only whitelisted principlaIDs and Cygnus Canister have permission to access these methods.
+1. [Cygnus.mo](https://github.com/CygnusIC/SDK/blob/master/motoko/Cygnus.mo "Cygnus.mo"): This file contains various types necessary for smooth integration. It also includes access control validation, ensuring that only whitelisted principlaIDs and Cygnus Canister have permission to access these methods.
 
-2. [Main.mo](https://github.com/CygnusIC/SDK/blob/main/motoko/Actor.mo "Actor.mo"): This file includes two crucial methods that should be copied into the main actor of your canister.
+2. [Main.mo](https://github.com/CygnusIC/SDK/blob/master/motoko/Actor.mo "Actor.mo"): This file includes two crucial methods that should be copied into the main actor of your canister.
 
 ## Integration Steps
 
